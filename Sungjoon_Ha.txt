@@ -1,0 +1,7 @@
+Aloha,
+
+I am Sungjoon Ha. I am majoring in CS and minoring in IT.
+
+My final project will be like FaceBook. People can share their thoughts and reply. The people who have authorization like ID and Password could change their own stories, but others can't do.
+
+I am glad to see you in this class. I hope I would learn many things!
